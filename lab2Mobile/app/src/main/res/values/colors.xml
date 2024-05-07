@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="green">#8FBC8F</color>
+    <color name="red">#FFEE0E0E</color> <!-- Исправленный цвет с добавлением `#FF` для альфа-канала -->
 </resources>

@@ -11,9 +11,10 @@
         android:layout_width="wrap_content"
         android:layout_height="67dp"
         android:text="@string/hello_world_text"
-        android:textColor="#FF3800"
-        android:background="#76ED76"
-        android:textSize="40sp" />
+        android:textColor="@color/red"
+        android:textSize="40sp"
+        android:background="@color/green" />
+
 
     <ImageView
         android:id="@+id/helloWorldImage"
