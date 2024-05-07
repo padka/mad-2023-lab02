@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="hello_world_text">Hello, World!</string>
+    <string name="hello_world">Hello World Image</string>
+</resources>
